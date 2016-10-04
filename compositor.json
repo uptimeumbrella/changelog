@@ -60,7 +60,7 @@
     "colors": {
       "text": "#111",
       "background": "#fff",
-      "primary": "#08e",
+      "primary": "#a463f2",
       "secondary": "#059",
       "highlight": "#e08",
       "border": "#ddd",
@@ -92,8 +92,8 @@
       "component": "nav",
       "links": [
         {
-          "href": "https://github.com/uptimeumbrella/changelog",
-          "text": "GitHub"
+          "href": "https://uptimeumbrella.com",
+          "text": "☂"
         }
       ]
     },
@@ -102,16 +102,6 @@
       "heading": "changelog",
       "subhead": "What's change on uptimeumbrella.com?",
       "children": [
-        {
-          "component": "ui/TweetButton",
-          "text": "changelog: What's change on uptimeumbrella.com?",
-          "url": null
-        },
-        {
-          "component": "ui/GithubButton",
-          "user": "uptimeumbrella",
-          "repo": "changelog"
-        }
       ]
     },
     {
