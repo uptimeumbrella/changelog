@@ -94,13 +94,17 @@
         {
           "href": "https://uptimeumbrella.com",
           "text": "☂"
+        },
+        {
+          "href": "https://twitter.com/uptimeumbrella",
+          "text": "@uptimeumbrella"
         }
       ]
     },
     {
       "component": "header",
       "heading": "changelog",
-      "subhead": "What's changed on uptimeumbrella.com?",
+      "subhead": "☂ What's changed on uptimeumbrella.com?",
       "children": []
     },
     {
@@ -118,8 +122,12 @@
           "text": "GitHub"
         },
         {
-          "href": "https://github.com/uptimeumbrella",
-          "text": "uptimeumbrella"
+          "href": "https://twitter.com/uptimeumbrella",
+          "text": "@uptimeumbrella"
+        },
+        {
+          "href": "",
+          "text": ""
         }
       ]
     }
