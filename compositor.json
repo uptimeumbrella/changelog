@@ -101,15 +101,14 @@
       "component": "header",
       "heading": "changelog",
       "subhead": "What's change on uptimeumbrella.com?",
-      "children": [
-      ]
+      "children": []
     },
     {
       "component": "article",
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n\n<h4>10/2/2016</h4>\n<p>We fixed a pretty serious bug that caused our billing integration to sporadically fail.\nTurbolinks + Stripe = &#x1F494;.</p>\n<p>We also changed some messaging and required <code>https</code>.</p>\n<h4>10/1/2016</h4>\n<p>First launch &#x1F680;.</p>\n"
+      "html": "\n\n<h4>10/2/2016</h4>\n<p>We fixed a pretty serious bug that caused our billing integration to sporadically fail.\nTurbolinks + Stripe = &#x1F494;.</p>\n<p>We also changed some messaging and forced <code>https</code>.</p>\n<h4>10/1/2016</h4>\n<p>First launch &#x1F680;.</p>\n"
     },
     {
       "component": "footer",
