@@ -2,6 +2,11 @@
 
 What's changed on [uptimeumbrella.com](https://uptimeumbrella.com)?
 
+#### 10/4/2016 - Improve aesthetics
+
+The header display for the latest ping it now nicely formatted with a touch of syntax highlighting.
+No more raw json blobs.
+
 #### 10/3/2016 - A couple bugs
 
 We fixed a pretty serious bug that caused our billing integration to sporadically fail.
