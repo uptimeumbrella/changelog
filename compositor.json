@@ -112,7 +112,7 @@
       "metadata": {
         "source": "github.readme"
       },
-      "html": "\n\n<h4>10/2/2016 - A couple bugs</h4>\n<p>We fixed a pretty serious bug that caused our billing integration to sporadically fail.\nTurbolinks + Stripe = &#x1F494;.</p>\n<p>Pinging is now 5 times faster, before we retried every <code>HEAD</code> request a ridiculous five times before failing.\nYou now get a text message after one retry (we still don&apos;t want to send you a text for a minor hiccup).</p>\n<p>We also changed some messaging and forced <code>https</code>.</p>\n<h4>10/1/2016 - The beginning</h4>\n<p>First launch &#x1F680;.</p>\n"
+      "html": "\n\n<h4>10/3/2016 - A couple bugs</h4>\n<p>We fixed a pretty serious bug that caused our billing integration to sporadically fail.\nTurbolinks + Stripe = &#x1F494;.</p>\n<p>Pinging is now 5 times faster, before we retried every <code>HEAD</code> request a ridiculous five times before failing.\nYou now get a text message after one retry (we still don&apos;t want to send you a text for a minor hiccup).</p>\n<p>We also changed some messaging and forced <code>https</code>.</p>\n<h4>10/2/2016 - The beginning</h4>\n<p>First launch &#x1F680;.</p>\n"
     },
     {
       "component": "footer",
