@@ -2,7 +2,10 @@
 
 What's changed on [uptimeumbrella.com](https://uptimeumbrella.com)?
 
-#### 10/4/2016 - Improve aesthetics
+#### 10/4/2016 - Improve aesthetics and the wizard flow
+
+The MVP had a pretty clunky onboarding flow so we cleaned it up a bit.
+Thanks to everyone that gave us great feedback.
 
 The header display for the latest ping is now nicely formatted with a touch of syntax highlighting.
 No more raw json blobs.
