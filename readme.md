@@ -2,6 +2,13 @@
 
 What's changed on [uptimeumbrella.com](https://uptimeumbrella.com)?
 
+#### 10/6/2016 - Bring downed urls to the front
+
+We hope it's rare when your site goes down.
+But, when it does, we bring it to the top of the UI so you can be reminded to run that migration, `./kick.sh`, redeploy or whatever it is you need to do.
+
+![qlv9noezbin72qnixqmdghnxeiblutxr5djpksbhvta](https://cloud.githubusercontent.com/assets/1424573/19172033/0cbac19e-8bdd-11e6-8ff2-9a4de6446b70.png)
+
 #### 10/4/2016 - Improve aesthetics and the wizard flow
 
 The MVP had a pretty clunky onboarding flow so we cleaned it up a bit.
