@@ -2,6 +2,11 @@
 
 What's changed on [uptimeumbrella.com](https://uptimeumbrella.com)?
 
+#### 10/11/2016 - Fix a phone number validation bug
+
+We fixed a bug that caused phone number validations to not work correctly.
+This ensures that registered users have valid numbers so we can send them notifications.
+
 #### 10/10/2016 - Add an FAQ page
 
 We've added an FAQ link at the top of the page to aggregate some of the questions we've been receiving. We'll add to this page as new questions come in.
