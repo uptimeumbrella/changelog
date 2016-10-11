@@ -2,6 +2,10 @@
 
 What's changed on [uptimeumbrella.com](https://uptimeumbrella.com)?
 
+#### 10/10/2016 - Add an FAQ page
+
+We've added an FAQ link at the top of the page to aggregate some of the questions we've been receiving. We'll add to this page as new questions come in.
+
 #### 10/6/2016 - Bring downed urls to the front
 
 We hope it's rare when your site goes down.
