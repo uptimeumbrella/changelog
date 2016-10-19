@@ -2,6 +2,12 @@
 
 What's changed on [uptimeumbrella.com](https://uptimeumbrella.com)?
 
+#### 10/18/2016 - Increase timeout and retries
+
+In order to account for hiccups on the internet, we've bumped up the retry count to 2 retries and the timeout to 10 seconds.
+Previously we had the retry count set to 1 and the timeout set to 2 seconds which was a bit too ambitious.
+Now our users shouldn't get notifications when our ping microservice has to take the long road from server to server.
+
 #### 10/11/2016 - Fix a phone number validation bug
 
 We fixed a bug that caused phone number validations to not work correctly.
