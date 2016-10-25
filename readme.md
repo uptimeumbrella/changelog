@@ -2,6 +2,14 @@
 
 What's changed on [uptimeumbrella.com](https://uptimeumbrella.com)?
 
+#### 10/25/2016 - Shorten notifications and more calibration for network flapping
+
+We noticed that some of our text messages were being sent as multipart.
+Turns out, SMS messages that contain special characters, like emojis, are only allowed a length of 67.
+
+We also tweaked the ping algorithm to be even more lenient for network flapping.
+When we encounter a failed ping we now immediately retry to make sure it wasn't a fluke.
+
 #### 10/18/2016 - Increase timeout and retries
 
 In order to account for hiccups on the internet, we've bumped up the retry count to 2 retries and the timeout to 10 seconds.
